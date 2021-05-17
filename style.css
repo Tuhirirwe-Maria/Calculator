@@ -41,6 +41,7 @@ button{
     border-radius: 10rem;
     background-color: #575252;
     color: #fff;
+    outline-style: none;
 
 }
 #clear_input{
